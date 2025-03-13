@@ -31,15 +31,11 @@ Algorithm visualizer is a react base web app where we can visualize and play wit
 
 - Open terminal and write
 
-        npm i
-       // or
-        yarn add
+        npm install
 
 - To run the code
 
         npm start
-       // or
-        yarn start
 
 ### Technologies
 
