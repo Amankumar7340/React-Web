@@ -142,7 +142,3 @@ Deployment Server :- <span> Vercel </span>
 
 url: https://react-web-5h14.vercel.app
 
-url: https://react-web-5h14.vercel.app
-
-url: https://react-web-5h14.vercel.app
-
